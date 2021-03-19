@@ -9,4 +9,4 @@ Langkah untuk dapat menggunakan Website ini :
 
 Untuk melihat dashbord admin :
 1. Akses ke localhost/<nama repositori>/admin dengan mengganti nama website sesuai dengan website milik anda.
-2. Login dengan username : admin@gmail.com | password : admin
+2. Login dengan username : admin@admin(dot)com | password : admin
